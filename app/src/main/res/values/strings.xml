@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Playback Control</string>
+    <string name="next">next</string>
+    <string name="pause">pause</string>
+    <string name="previous">previous</string>
+    <string name="select_action">Select action</string>
+    <string name="requestFail">Request to %1$s has failed: %2$s </string>
+    <string name="requestSuccess">Request to %1$s has been accepted</string>
+    <string name="cancel_requests">Cancel requests</string>
+</resources>
